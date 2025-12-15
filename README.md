@@ -58,3 +58,5 @@ Hasta el momentpo lo que he aprendido considero que ha sido muy fructifero para 
 
 utilicé googlke ai studio para buscar conceptos t chat gpt para el código de python lo transcribí para ir aprendiendo.
 
+https://github.com/Diegorestrepog1988/mini_turtle_ootask
+https://github.com/Diegorestrepog1988/mini_turtle_task
