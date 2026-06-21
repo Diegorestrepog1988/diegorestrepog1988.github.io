@@ -1,4 +1,4 @@
-# diegorestrepog1988.github.io
+un# diegorestrepog1988.github.io
 
 Mi nombre es Diego Alexis Restrepo Giraldo Soy técnico en sistemas 📺 informáticos, estudiante de tecnología en desarrollo de software; apasionado de los computadores.
 
@@ -58,5 +58,4 @@ Hasta el momento lo que he aprendido considero que ha sido muy fructífero para 
 
 utilicé google ai studio para buscar conceptos y chat gpt para el código de python lo transcribí para ir aprendiendo.
 
-https://github.com/Diegorestrepog1988/mini_turtle_ootask
-https://github.com/Diegorestrepog1988/mini_turtle_task
+
